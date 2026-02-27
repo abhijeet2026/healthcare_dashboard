@@ -1,0 +1,101 @@
+doctor_id,doctor_name,specialization,consultation_fee
+1,Dr. Siddharth Mishra,Pediatrics,1781
+2,Dr. Pooja Reddy,General Medicine,1515
+3,Dr. Megha Sharma,Neurology,861
+4,Dr. Aditi Singh,Cardiology,1189
+5,Dr. Pooja Iyer,General Medicine,973
+6,Dr. Aryan Mishra,Oncology,1526
+7,Dr. Kunal Mishra,Oncology,1318
+8,Dr. Sandeep Chauhan,Orthopedics,1083
+9,Dr. Megha Sharma,Orthopedics,1431
+10,Dr. Megha Singh,Oncology,1979
+11,Dr. Megha Iyer,Cardiology,2096
+12,Dr. Rohan Chauhan,General Medicine,1118
+13,Dr. Megha Mishra,Orthopedics,2474
+14,Dr. Megha Singh,Cardiology,2115
+15,Dr. Aditi Gupta,General Medicine,999
+16,Dr. Rohan Sharma,Cardiology,585
+17,Dr. Aditi Chauhan,General Medicine,1784
+18,Dr. Aryan Verma,Orthopedics,2316
+19,Dr. Siddharth Iyer,Pediatrics,2440
+20,Dr. Ishani Gupta,Oncology,1592
+21,Dr. Pooja Singh,General Medicine,1157
+22,Dr. Ishani Patel,General Medicine,572
+23,Dr. Pooja Singh,Pediatrics,527
+24,Dr. Ishani Gupta,Oncology,2041
+25,Dr. Kunal Verma,Cardiology,1314
+26,Dr. Kunal Nair,Orthopedics,524
+27,Dr. Kunal Iyer,Orthopedics,840
+28,Dr. Pooja Chauhan,Pediatrics,2175
+29,Dr. Kunal Sharma,General Medicine,1392
+30,Dr. Aryan Patel,Cardiology,622
+31,Dr. Aditi Verma,Neurology,1935
+32,Dr. Kunal Nair,Pediatrics,1653
+33,Dr. Pooja Chauhan,Orthopedics,1509
+34,Dr. Rohan Gupta,Pediatrics,1647
+35,Dr. Siddharth Singh,Oncology,1435
+36,Dr. Aryan Reddy,Pediatrics,2194
+37,Dr. Anjali Iyer,Cardiology,1710
+38,Dr. Pooja Nair,Pediatrics,1175
+39,Dr. Aryan Nair,Cardiology,1509
+40,Dr. Anjali Chauhan,Neurology,767
+41,Dr. Pooja Patel,Oncology,1715
+42,Dr. Aditi Gupta,General Medicine,904
+43,Dr. Aditi Mishra,Neurology,787
+44,Dr. Kunal Patel,General Medicine,581
+45,Dr. Pooja Verma,Neurology,797
+46,Dr. Siddharth Chauhan,Neurology,1105
+47,Dr. Anjali Gupta,Cardiology,1907
+48,Dr. Siddharth Singh,Neurology,1316
+49,Dr. Ishani Chauhan,Pediatrics,969
+50,Dr. Kunal Verma,Pediatrics,1214
+51,Dr. Pooja Nair,Pediatrics,1551
+52,Dr. Aditi Chauhan,General Medicine,1575
+53,Dr. Aryan Sharma,Orthopedics,2324
+54,Dr. Megha Sharma,Cardiology,2081
+55,Dr. Kunal Mishra,Orthopedics,585
+56,Dr. Ishani Reddy,Oncology,1953
+57,Dr. Kunal Singh,Neurology,720
+58,Dr. Kunal Reddy,Oncology,1960
+59,Dr. Ishani Gupta,Pediatrics,2163
+60,Dr. Aditi Sharma,Neurology,1402
+61,Dr. Ishani Reddy,Pediatrics,1814
+62,Dr. Aditi Verma,Neurology,1466
+63,Dr. Megha Iyer,Neurology,640
+64,Dr. Megha Singh,Neurology,501
+65,Dr. Megha Reddy,Cardiology,1537
+66,Dr. Rohan Sharma,Orthopedics,1545
+67,Dr. Aryan Patel,Cardiology,768
+68,Dr. Kunal Singh,Oncology,515
+69,Dr. Aditi Sharma,Pediatrics,966
+70,Dr. Siddharth Reddy,Neurology,2110
+71,Dr. Kunal Sharma,Cardiology,1846
+72,Dr. Kunal Chauhan,Oncology,2393
+73,Dr. Anjali Mishra,Neurology,611
+74,Dr. Aryan Sharma,Cardiology,1057
+75,Dr. Megha Nair,Orthopedics,1660
+76,Dr. Aditi Sharma,Orthopedics,730
+77,Dr. Aditi Reddy,Pediatrics,1113
+78,Dr. Kunal Chauhan,Oncology,1416
+79,Dr. Aditi Chauhan,Pediatrics,1673
+80,Dr. Siddharth Sharma,General Medicine,1374
+81,Dr. Ishani Patel,Orthopedics,750
+82,Dr. Megha Nair,Oncology,538
+83,Dr. Megha Patel,Orthopedics,1979
+84,Dr. Megha Verma,Cardiology,1327
+85,Dr. Megha Iyer,Oncology,2366
+86,Dr. Aditi Gupta,Neurology,2207
+87,Dr. Rohan Reddy,Pediatrics,1361
+88,Dr. Aryan Nair,General Medicine,962
+89,Dr. Anjali Chauhan,Cardiology,2466
+90,Dr. Ishani Reddy,Neurology,1171
+91,Dr. Siddharth Nair,Oncology,768
+92,Dr. Sandeep Singh,General Medicine,775
+93,Dr. Ishani Chauhan,Pediatrics,2046
+94,Dr. Sandeep Sharma,Orthopedics,1549
+95,Dr. Rohan Mishra,Pediatrics,1418
+96,Dr. Kunal Mishra,Cardiology,1937
+97,Dr. Aditi Mishra,Pediatrics,1706
+98,Dr. Rohan Nair,Neurology,1947
+99,Dr. Kunal Chauhan,Oncology,1575
+100,Dr. Kunal Verma,General Medicine,1707
