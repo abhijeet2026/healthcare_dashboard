@@ -28,4 +28,6 @@ Developed a comprehensive Power BI dashboard to analyze 30,000+ patient records,
 - **Dynamic Filtering:** Implemented custom tooltips and bookmarks for a seamless user experience.
 
 ## 📊 Dashboard Preview
-*[Insert Healthcare Dashboard Screenshot Here]*
+<img width="1920" height="1200" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/e33653a8-9233-42f7-a99f-ca20b19eb203" />
+
+
